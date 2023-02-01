@@ -1,6 +1,26 @@
 span {
   display: inline-block;
 }
+
+li{
+  display:inline;
+  margin-left: 10px;
+}
+
+#pic {
+  display: inline-block;
+}
+
+body {
+  text-align: center;
+}
+
+#imgs {
+  height: 100px
+}
+
+
+
 /* span {
   display: inline-block;
   background-color: lightblue;
